@@ -4,13 +4,17 @@ background.solid: pink
 align-content: center
 spacing.fixed.px: 20
 
--- card:
+-- card: MonkeyDLuffy
+
+I'm going to be the king of the pirates
  
 -- card: MonkeyDLuffy
 
 I'm going to be the king of the pirates
 
--- card:
+-- card: MonkeyDLuffy
+
+I'm going to be the king of the pirates
 
 -- end: ftd.column
 
